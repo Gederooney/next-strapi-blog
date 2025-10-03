@@ -141,7 +141,7 @@ export default function Header() {
               Blog
             </Link>
             <Link
-              href="/categories"
+              href="/categorie"
               className="text-sm text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white transition-colors px-5 py-2"
             >
               Categories
